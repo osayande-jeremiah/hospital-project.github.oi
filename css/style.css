@@ -1,0 +1,303 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color:orange;
+	padding:20px;
+}
+button{
+	width: 130px;
+	height:40px;
+	border-radius:50px;
+	background-color:darkblue;
+	color: white;
+}
+h1{
+	color: white;
+}
+.px{
+	width:300px;
+	height:100px;
+}
+.image{
+	background-color: black;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+img{
+	width:100%;
+	height:100%;
+	object-fit: cover;
+}
+ul{
+	display: flex;
+	text-decoration: none;
+}
+li{
+	list-style: none;
+}
+a{
+ margin: 20px;
+ /*text-decoration: none;*/
+ margin-right: 20px;
+}
+select{
+	color: blue;
+}
+label{
+	color: white;
+	margin-right: 300px;
+}
+.center{
+	text-align: center;
+	margin:50px;
+	font-family: aharoni;
+}
+hr{
+	width: 60px;
+	background-color: black;
+
+}
+.middle{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.first{
+	width:400px;
+	height:450px;
+	background-color:lightblue;
+}
+.second{
+	width:400px;
+	height:450px;
+	background-color:silver;
+}
+.third{
+	justify-content: center;
+	align-items: center;
+	width:400px;
+	height:450px;
+	background-color:antiquewhite;
+}
+.at{
+	display: flex;
+	margin:80px;
+	width: 250px;
+	height: 30px;
+	background:whitesmoke;
+	text-decoration: none;
+	align-items: center;
+	padding: 20px;
+
+}
+.link{
+	display: flex;
+	margin:80px;
+	width: 250px;
+	height: 30px;
+	background:whitesmoke;
+	text-decoration: none;
+	align-items: center;
+	padding: 20px;
+}
+.linkk{
+	display: flex;
+	margin: 80px;
+	width: 210px;
+	height: 30px;
+	background:whitesmoke;
+	text-decoration: none;
+	align-items: center;
+	padding: 20px;
+}
+.f{
+	text-align: center;
+	color:darkblue;
+	font-family: Algerian;
+}
+p{
+	text-align:center;
+	margin: 40px;
+	font:Arial Nova;
+}
+.Main{
+	width: 1400px;
+	height: 500px;
+	background: lightskyblue;
+	margin: 20px;
+}
+.main-pic{
+	width:600px;
+	height:500px;
+}
+.Main{
+	display: flex;
+	align-items:center ;
+	justify-content: space-between;
+}
+.main-h{
+	margin-left:50px;
+}
+.main-pee{
+	text-align: center;
+	height:300px;
+	width: 300px;
+}
+.main-gee{
+	width: 400px;
+	height: 400px;
+}
+.btn{
+	margin-left: 20px;
+}
+.btn2{
+	margin-left: 20px;
+	background-color: green;
+	border-radius: 30px;
+}
+.down{
+	width:400px;
+	height:250px;
+	background-color: lightskyblue;
+}
+.downn{
+	display: flex;
+	justify-content: space-between;
+}
+.downx{
+	display: flex;
+}
+.btc{
+border-radius: 50px;	
+}
+.b{
+	margin-right: 60px;
+}
+.hf{
+	background:grey ;
+	padding: 20px;
+}
+.btdown{
+	margin-left: 30px;
+}
+.che{
+	display: flex;
+}
+.chem{
+	width: 100px;
+	height: 100px;
+}
+.ch{
+	display: flex;
+}
+
+.chep{
+	width: 200px;
+	height: 200px;
+}
+.chepa{
+	width: 200px;
+	height: 200px;
+}
+.vv{
+	width: 100px;
+	height: 100px;
+}
+.vvv{
+	width: 100px;
+	height: 100px;
+}
+.ft{
+	width: 1400px;
+	height: 300px;
+	background: lightskyblue;
+	display: flex;
+	justify-content:space-between;
+
+}
+.fmt{
+	width:400px;
+	height: 400px;
+}
+.fut{
+	margin-left: 70px;
+	margin-top: 50px;
+}
+.btnft{
+	margin-right: 150px;
+	margin-top: 120px;
+	width: 270px;
+	height:70px;
+	border-radius: 10px;
+}
+.footer{
+	width: 1400px;
+	height:600px;
+	background:darkblue;
+}
+.ftpic{
+	width:300px;
+	height: 100px;
+}
+.q{
+	width:320px;
+	height: 120px;
+}
+.w{
+    width:360px;
+	height: 120px;
+		
+}
+.hg{
+	width: 300px;
+	height: 100px;
+	color: white;
+}
+.footer-picture{
+ margin-top: 30px;
+}
+.x{
+	color:white;
+}
+.hhh{
+	color: whitesmoke;
+}
+.footer{
+	display: flex;
+}
+.footerwords{
+	margin-left: 20px;
+	margin-top: 40px;
+}
+.Dropdown{
+	position: relative;
+}
+.dropdown-items{
+	position: absolute;
+	display: none;
+}
+.dropdown-items:hover{
+	display: block;
+}
+.dropdown-items a{
+	color:whitesmoke;
+	font-size: 1.2em;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: italic;
+	text-align: center;
+}
+.black{
+	background-color: black;
+	border-radius: 10px;
+}
+.white{
+	background-color:grey;
+	border-radius: 10px;
+}
